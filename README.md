@@ -1,86 +1,111 @@
-# Hi, I'm Dr. Anuradha Thakur 👋
+🔬 Chemistry + 📊 Data Science + 🤖 AI
 
-### PhD Chemist | Data Scientist | AI & Machine Learning Enthusiast
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📸 Professional Photo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I am a PhD-trained researcher with expertise in Chemistry, sustainability research, and scientific data analysis. After several years of research experience in academia and industry, I am expanding my career into Data Science and Artificial Intelligence.
+👋 Hi, I'm Dr. Anuradha Thakur
 
-Currently, I am building machine learning projects focused on predictive analytics, forecasting, and real-world business applications.
+🔬 PhD Chemist
+📊 Data Scientist
+🤖 AI & Machine Learning Enthusiast
+🇮🇳 Indian | 🇯🇵 Based in Tokyo
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 💻 Data Science & AI Skills
+# Hi there 👋, I'm Dr. Anuradha Thakur
 
-### Programming
+🔬 PhD in Chemistry | 📊 Data Scientist | 🤖 AI Enthusiast
 
-* Python
-* SQL
-* Git & GitHub
+Bridging scientific research and artificial intelligence to solve real-world problems.
 
-### Machine Learning
+🌏 Based in Tokyo, Japan
+🎓 PhD Chemistry
+📈 Transitioning into Data Science & AI
+🔭 Currently working on Electricity Price Forecasting
 
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* Random Forest
-* Time Series Forecasting
+## 👩‍🔬 About Me
 
-### Data Analysis
+- 🔬 8+ years of research experience
+- 📚 Published researcher in Chemistry
+- 🧠 Alzheimer's Disease Research
+- 🌋 Prebiotic Chemistry Research
+- 🌱 Sustainability & Water-Based Ink Research
+- 📊 Data Science & Machine Learning
+- 🇯🇵 Japanese (JLPT N3)
 
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
+- ## 💻 Tech Stack
 
-### Dashboard Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-* Streamlit
-* Interactive Data Visualization
+## 🚀 Featured Projects
 
----
+### 🦆 Duckstradamus
+Electricity Price Forecasting for New Zealand
 
-## 🚀 Current Projects
-
-### Duckstradamus
-
-Electricity price forecasting platform for the New Zealand electricity market.
-
-Features:
-
-* 24-hour electricity price prediction
-* XGBoost forecasting model
-* Spike detection
-* Cost optimization recommendations
-* Interactive Streamlit dashboard
-
-### Alzheimer's Disease Data Science Project
-
-Applying machine learning techniques to biomedical datasets for disease understanding and prediction.
-
----
-
-## 📚 Current Learning
-
-* Machine Learning Engineering
-* Advanced Time Series Forecasting
-* Deep Learning
-* AI Applications in Science
-* MLOps and Model Deployment
+✔ XGBoost Forecasting
+✔ Spike Prediction
+✔ Cost Optimization
+✔ Interactive Streamlit Dashboard
 
 ---
 
-## 🌏 Languages
+### 🧠 Alzheimer's Disease Data Science Project
 
-* English (Fluent)
-* Hindi (Native)
-* Japanese (Intermediate)
+Machine Learning approaches for biomedical data analysis.
 
 ---
+
+### 📈 Forecast Performance Dashboard
+
+Interactive dashboard for model evaluation and business decision support.
+
+## 📖 Publications
+
+### Novel Cardenolide Glycoside from Gomphocarpus fruticosus
+
+Research focused on Alzheimer's disease treatment and reduction of Aβ42.
+
+🔗 DOI Link
+
+---
+
+### Prebiotic Chemistry Research
+
+Exploring sulfur compounds and early Earth reaction networks.
+
+🔗 DOI Link
+
+---
+
+### Google Scholar
+
+🔗 https://scholar.google.com/xxxxx
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn URL]
-* GitHub: https://github.com/[YourUsername]
+📧 Email: your@email.com
 
----
+💼 LinkedIn:
+https://linkedin.com/in/yourprofile
 
-*"Combining scientific thinking with data-driven decision making."*
+🎓 Google Scholar:
+https://scholar.google.com/...
+
+🧪 ORCID:
+https://orcid.org/...
