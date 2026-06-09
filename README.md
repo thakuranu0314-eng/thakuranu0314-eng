@@ -26,13 +26,7 @@ Bridging scientific research and artificial intelligence to solve real-world pro
 
 ## 👩‍🔬 About Me
 
-- 🔬 8+ years of research experience
-- 📚 Published researcher in Chemistry
-- 🧠 Alzheimer's Disease Research
-- 🌋 Prebiotic Chemistry Research
-- 🌱 Sustainability & Water-Based Ink Research
-- 📊 Data Science & Machine Learning
-- 🇯🇵 Japanese (JLPT N3)
+I have worked in research and development and product development within the field of chemistry throughout my career. In recent years, I developed a strong interest in Data Science and Artificial Intelligence and completed the Data Science & AI Bootcamp at Le Wagon Tokyo in 2026.
 
 - ## 💻 Tech Stack
 
