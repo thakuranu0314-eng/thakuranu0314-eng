@@ -1,105 +1,116 @@
-🔬 Chemistry + 📊 Data Science + 🤖 AI
+# 🔬 Chemistry + 📊 Data Science + 🤖 Artificial Intelligence
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📸 Professional Photo
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Hi there, I'm Dr. Anuradha Thakur 👋
 
-👋 Hi, I'm Dr. Anuradha Thakur
+PhD-trained Chemist with over 10 years of experience in scientific research, analytical problem-solving, and data-driven decision making.
 
-🔬 PhD Chemist
-📊 Data Scientist
-🤖 AI & Machine Learning Enthusiast
-🇮🇳 Indian | 🇯🇵 Based in Tokyo
+My background spans Natural Product Chemistry, Alzheimer's Disease Research, Prebiotic Chemistry, and Sustainable Formulation Development. Today, I am expanding these skills into Data Science, Machine Learning, and Artificial Intelligence to solve complex real-world challenges through data.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Currently based in Tokyo, Japan 🇯🇵.
 
-# Hi there 👋, I'm Dr. Anuradha Thakur
+---
 
-🔬 PhD in Chemistry | 📊 Data Scientist | 🤖 AI Enthusiast
+## 🚀 About Me
 
-Bridging scientific research and artificial intelligence to solve real-world problems.
+🔬 PhD in Chemistry with experience in academia and industry
+
+📊 Exploring data science and AI applications in Science, Sustainability, and Healthcare
 
 🌏 Based in Tokyo, Japan
-🎓 PhD Chemistry
-📈 Transitioning into Data Science & AI
-🔭 Currently working on Electricity Price Forecasting
 
-## 👩‍🔬 About Me
+---
 
-I have worked in research and development and product development within the field of chemistry throughout my career. In recent years, I developed a strong interest in Data Science and Artificial Intelligence and completed the Data Science & AI Bootcamp at Le Wagon Tokyo in 2026.
+## 💻 Technical Skills
 
-- ## 💻 Tech Stack
+### Data Science & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Data Visualization & Deployment
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🔬 Research & Scientific Expertise
+
+* Alzheimer's Disease Research
+* Natural Product Chemistry
+* Prebiotic Chemistry
+* Sustainable & Low-VOC Formulations
+* Analytical Chemistry (HPLC, UPLC-MS, NMR, FTIR)
+* Experimental Design & Scientific Data Analysis
+
+---
+
+## 📚 Publications
+
+📖 Peer-reviewed research publications in Chemistry and Life Sciences
+
+🔗 Google Scholar: [Add Link]
+
+🔗 ORCID: [Add Link]
+
+🔗 ResearchGate: [Add Link]
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🦆 Duckstradamus
-Electricity Price Forecasting for New Zealand
 
-✔ XGBoost Forecasting
-✔ Spike Prediction
-✔ Cost Optimization
-✔ Interactive Streamlit Dashboard
+Machine Learning platform for forecasting New Zealand electricity prices.
+
+**Technologies:** Python, XGBoost, Streamlit, Time-Series Forecasting
+
+Features:
+
+* 24-hour electricity price forecasting
+* Electricity spike prediction
+* Cost optimization recommendations
+* Interactive business dashboard
 
 ---
 
 ### 🧠 Alzheimer's Disease Data Science Project
 
-Machine Learning approaches for biomedical data analysis.
+Applying machine learning techniques to biomedical and healthcare datasets to generate predictive insights.
 
 ---
 
-### 📈 Forecast Performance Dashboard
+## 📈 Currently Exploring
 
-Interactive dashboard for model evaluation and business decision support.
-
-## 📖 Publications
-
-### Novel Cardenolide Glycoside from Gomphocarpus fruticosus
-
-Research focused on Alzheimer's disease treatment and reduction of Aβ42.
-
-🔗 DOI Link
+* Advanced Time Series Forecasting
+* Explainable AI (XAI)
+* Deep Learning
+* MLOps & Model Deployment
+* AI Applications in Scientific Research
 
 ---
 
-### Prebiotic Chemistry Research
+## 🌐 Connect With Me
 
-Exploring sulfur compounds and early Earth reaction networks.
+💼 LinkedIn: [Your LinkedIn URL]
 
-🔗 DOI Link
+📧 Email: [Your Email]
+
+🎓 Google Scholar: [Your Google Scholar URL]
+
+🧪 ORCID: [Your ORCID URL]
 
 ---
 
-### Google Scholar
-
-🔗 https://scholar.google.com/xxxxx
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-
-## 📫 Connect With Me
-
-📧 Email: your@email.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
-
-🎓 Google Scholar:
-https://scholar.google.com/...
-
-🧪 ORCID:
-https://orcid.org/...
+> "Combining scientific thinking with artificial intelligence to create data-driven solutions for real-world challenges."
