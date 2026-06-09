@@ -2,15 +2,7 @@
 
 ## Hi there, I'm Dr. Anuradha Thakur 👋
 
-PhD-trained Chemist with over 10 years of experience in scientific research, analytical problem-solving, and data-driven decision making.
-
-My background spans Natural Product Chemistry, Alzheimer's Disease Research, Prebiotic Chemistry, and Sustainable Formulation Development. Today, I am expanding these skills into Data Science, Machine Learning, and Artificial Intelligence to solve complex real-world challenges through data.
-
-Currently based in Tokyo, Japan 🇯🇵.
-
----
-
-## 🚀 About Me
+PhD-trained Chemist with over 10 years of experience in scientific research, analytical problem-solving, and data-driven decision-making.
 
 🔬 PhD in Chemistry with experience in academia and industry
 
