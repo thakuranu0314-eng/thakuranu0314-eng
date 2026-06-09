@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Dr. Anuradha Thakur 👋
 
-PhD-trained Chemist with over 10 years of experience in scientific research, analytical problem-solving, and data-driven decision-making.
+PhD-trained Chemist with over 10 years of experience in teaching, scientific research, analytical problem-solving, and data-driven decision-making.
 
 🔬 PhD in Chemistry with experience in academia and industry
 
