@@ -12,23 +12,31 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 
 ---
 ## 📰 Featured Interview
-<h2>📰 Featured Interview</h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" width="500">
-</p>
-
-<h3>🌍 ELSI Researcher Spotlight</h3>
-
-Featured by the Earth-Life Science Institute (ELSI), Tokyo.
-
-📖 <a href="https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf">Read the full interview</a>
+<table>
+<tr>
+<td width="40%" valign="top">
 
 ### 🌍 ELSI Researcher Spotlight
 
-Featured by the Earth-Life Science Institute (ELSI), Tokyo, discussing my research on prebiotic chemistry and the origins of life.
+Featured by the Earth-Life Science Institute (ELSI), Tokyo.
+
+Discussing my research on prebiotic chemistry and the origins of life.
 
 📖 [Read the full interview](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
+
+</td>
+
+<td width="60%">
+
+<a href="https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf">
+  <img src="YOUR_IMAGE_LINK_HERE" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ## 💻 Technical Skills
 
