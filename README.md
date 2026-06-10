@@ -12,8 +12,7 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 
 ---
 ## 📰 Featured Interview
-
-[![ELSI Interview](images/elsi_interview.png)](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
+<img width="2344" height="1652" alt="image" src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" />
 
 ### 🌍 ELSI Researcher Spotlight
 
