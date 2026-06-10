@@ -11,18 +11,15 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 🌏 Based in Tokyo, Japan
 
 ---
-## 📰 Featured Article
+## 📰 Featured Interview
 
-### 🌍 Recreating the Early Earth's Atmosphere and Oceans to Explore the Mystery of Life's Origins
+[![ELSI Interview](images/elsi_interview.png)](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
 
-Featured by the Earth-Life Science Institute (ELSI), Tokyo.
+### 🌍 ELSI Researcher Spotlight
 
-This interview highlights my research on prebiotic chemistry and the chemical processes that may have contributed to the origin of life on Earth.
+Featured by the Earth-Life Science Institute (ELSI), Tokyo, discussing my research on prebiotic chemistry and the origins of life.
 
-📖 Read the article:
-https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf
-
-🖼️ Includes researcher profile and interview feature.
+📖 [Read the full interview](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
 
 ## 💻 Technical Skills
 
