@@ -29,13 +29,13 @@ Discussing my research on prebiotic chemistry and the origins of life.
 
 <p align="center">
   <a href="https://www.elsi.jp/">
-    <img src="YOUR_ELSI_LOGO_LINK" width="130">
+    <img src="https://github.com/user-attachments/assets/5b7d5860-4f48-4b9c-9c3c-fb43e71e739e" width="450">
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.s.u-tokyo.ac.jp/en/">
-    <img src="YOUR_SCIENCE_TOKYO_LOGO_LINK" width="140">
+    <img src="https://github.com/user-attachments/assets/b3e823c1-0563-4756-90c7-78e521ee14a7" width="1200">
   </a>
 </p>
 
