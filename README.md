@@ -12,7 +12,17 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 
 ---
 ## 📰 Featured Interview
-<img width="2344" height="1652" alt="image" src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" />
+<h2>📰 Featured Interview</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" width="500">
+</p>
+
+<h3>🌍 ELSI Researcher Spotlight</h3>
+
+Featured by the Earth-Life Science Institute (ELSI), Tokyo.
+
+📖 <a href="https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf">Read the full interview</a>
 
 ### 🌍 ELSI Researcher Spotlight
 
