@@ -12,11 +12,10 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 
 ---
 
-## 📰 Featured Interview
-
 <table>
 <tr>
-<td width="38%" valign="top">
+
+<td width="40%" valign="top">
 
 ### 🌍 ELSI Researcher Spotlight
 
@@ -26,24 +25,30 @@ Discussing my research on prebiotic chemistry and the origins of life.
 
 📖 [Read the full interview](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
 
+---
+
 <p align="center">
-  <a href="https://www.elsi.jp/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ELSI_logo_placeholder" width="45%" style="margin-right:10px;">
+  <a href="https://www.elsi.jp/">
+    <img src="YOUR_ELSI_LOGO_LINK" width="130">
   </a>
-  <a href="https://www.s.u-tokyo.ac.jp/en/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/Science_Tokyo_logo_placeholder" width="45%">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.s.u-tokyo.ac.jp/en/">
+    <img src="YOUR_SCIENCE_TOKYO_LOGO_LINK" width="140">
   </a>
 </p>
 
 </td>
 
-<td width="62%" valign="top">
+<td width="60%" align="center">
 
 <a href="https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf">
-  <img src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" width="100%">
+  <img src="https://github.com/user-attachments/assets/0b1e9541-bda5-40be-9503-10e693210738" width="85%">
 </a>
 
 </td>
+
 </tr>
 </table>
 
