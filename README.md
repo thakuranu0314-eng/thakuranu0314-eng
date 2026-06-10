@@ -11,6 +11,7 @@ PhD-trained Chemist with over 10 years of experience in teaching, scientific res
 🌏 Based in Tokyo, Japan
 
 ---
+
 ## 📰 Featured Interview
 
 <table>
@@ -25,6 +26,15 @@ Discussing my research on prebiotic chemistry and the origins of life.
 
 📖 [Read the full interview](https://www.elsi.jp/wp-content/uploads/2024/10/Origins_vol12_for-web_20241004.pdf)
 
+<p align="center">
+  <a href="https://www.elsi.jp/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ELSI_logo_placeholder" width="45%" style="margin-right:10px;">
+  </a>
+  <a href="https://www.s.u-tokyo.ac.jp/en/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/Science_Tokyo_logo_placeholder" width="45%">
+  </a>
+</p>
+
 </td>
 
 <td width="62%" valign="top">
@@ -36,7 +46,6 @@ Discussing my research on prebiotic chemistry and the origins of life.
 </td>
 </tr>
 </table>
-
 
 ## 💻 Technical Skills
 
