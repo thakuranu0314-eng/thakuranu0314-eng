@@ -134,13 +134,9 @@ Applying machine learning techniques to biomedical and healthcare datasets to ge
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn URL]
+💼 LinkedIn: https://www.linkedin.com/in/anuradha-thakur-0a03441a1/
 
-📧 Email: [Your Email]
-
-🎓 Google Scholar: [Your Google Scholar URL]
-
-🧪 ORCID: [Your ORCID URL]
+📧 Email: thakur.anu0314gmail.com
 
 ---
 
